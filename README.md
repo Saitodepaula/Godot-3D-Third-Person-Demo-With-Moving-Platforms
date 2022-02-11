@@ -1,5 +1,5 @@
 # Godot-3D-Third-Person-Demo-With-Moving-Platforms
-Godot 3D Third Person Character from the official demo, with moving platforms as Rigid Bodies.
+Godot 3D Third Person Character from the [official demo](https://github.com/godotengine/godot-demo-projects/tree/master/3d/platformer), with moving platforms as Rigid Bodies.
 
 I'll update this page soon with a video and more descriptions.
 
