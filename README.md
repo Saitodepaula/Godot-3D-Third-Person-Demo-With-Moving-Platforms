@@ -24,9 +24,9 @@ Personally, I would try to make the character based on a Rigid Body too, so that
 
 ## Known Issues
 
-I've modified a bit of the code for the player, from the official demo. The original camera annoyed me a lot for testing, so I just made a lazy workaround, it's in lines 87-94 and 128-140. It's not good for a complete game, so you will probably need to change it.
+- I've modified a bit of the code for the player, from the official demo. The original camera annoyed me a lot for testing, so I just made a lazy workaround, ***it's in lines 87-94 and 128-140*** of the ```player.gd``` script. It's not good for a complete game, so you will probably need to change it.
 
-The player animations are very bad when the character is pushed by the rigid bodies, but I've not made any attempt to make it better. It's another point you will have to fix yourself.
+- The player animations are very bad when the character is pushed by the rigid bodies, but I've not made any attempt to make it better. It's another point you will have to fix yourself.
 
 ## Future Updates
 
