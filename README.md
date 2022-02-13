@@ -8,9 +8,11 @@ Godot 3D Third Person Character from the [official demo](https://github.com/godo
 
 Just press F5 and have fun!
 
-Character - kinematic controller (from the official Third Person Platformer demo, see link at end of description).
-Moving Platforms - Rigid Bodies
-Moving Plaforms movement - Generic 6DOF Joints
+**Character - kinematic controller** (from the official Third Person Platformer demo, see link at end of description).
+
+**Moving Platforms - Rigid Bodies**
+
+**Moving Plaforms movement - Generic 6DOF Joints**
 
 I've made this demo after a fellow godotter asked me in a group about how to make a 3D character to interact with moving platforms.
 
@@ -20,10 +22,14 @@ So I decided to make a demo using rigid bodies as moving platforms.
 
 Personally, I would try to make the character based on a Rigid Body too, so that the interactions are always physically coherent. For example, you can see that the character doesn't rotate when standing on the rotating platform. But I've used the character from the official demo so that the solution for the moving platforms is compatible with a already stablished solution.
 
-Official Third Person Platformer Demo:
+## Official Third Person Platformer Demo:
+
 https://godotengine.org/asset-library/asset/125
 
-Other solutions for moving platforms in 3D:
+## Other solutions for moving platforms in 3D:
+
 https://www.youtube.com/watch?v=5TR5R1cbLG8
+
 https://www.youtube.com/watch?v=iLvDWPW3qsI
+
 https://www.youtube.com/watch?v=ey6LCrtpQrU
