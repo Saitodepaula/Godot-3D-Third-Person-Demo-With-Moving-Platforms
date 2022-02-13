@@ -16,7 +16,7 @@ Just press F5 and have fun!
 
 I've made this demo after a fellow godotter asked me in a group about how to make a 3D character to interact with moving platforms.
 
-It was a surprise to me that the official third person platformer demo doesn't feature moving platforms, and the official tutorial and many other sources around the web only feature 2D examples I could only find a few videos for 3D moving platforms (link at end of description), and all the solutions uses kinematic bodies for the moving platforms. 
+It was a surprise to me that the official third person platformer demo doesn't feature moving platforms, and the official tutorial and many other sources around the web only feature 2D examples. I could only find a few videos for 3D moving platforms (link at end of description), and all the solutions uses kinematic bodies for the moving platforms. 
 
 So I decided to make a demo using rigid bodies as moving platforms.
 
