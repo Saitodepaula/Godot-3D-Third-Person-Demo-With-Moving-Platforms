@@ -22,6 +22,12 @@ So I decided to make a demo using rigid bodies as moving platforms.
 
 Personally, I would try to make the character based on a Rigid Body too, so that the interactions are always physically coherent. For example, you can see that the character doesn't rotate when standing on the rotating platform. But I've used the character from the official demo so that the solution for the moving platforms is compatible with a already stablished solution.
 
+## Known Issues
+
+I've modified a bit of the code for the player, from the official demo. The original camera annoyed me a lot for testing, so I just made a lazy workaround, it's in lines 87-94 and 128-140. It's not good for a complete game, so you will probably need to change it.
+
+The player animations are very bad when the character is pushed by the rigid bodies, but I've not made any attempt to make it better. It's another point you will have to fix yourself.
+
 ## Future Updates
 
 I can't guarantee future updates. That said, I may update this demo in the future. Please, share your opinion, feedback and request for more features.
