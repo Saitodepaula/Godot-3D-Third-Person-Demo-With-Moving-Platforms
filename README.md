@@ -22,6 +22,12 @@ So I decided to make a demo using rigid bodies as moving platforms.
 
 Personally, I would try to make the character based on a Rigid Body too, so that the interactions are always physically coherent. For example, you can see that the character doesn't rotate when standing on the rotating platform. But I've used the character from the official demo so that the solution for the moving platforms is compatible with a already stablished solution.
 
+## Future Updates
+
+I can't guarantee future updates. That said, I may update this demo in the future. Please, share your opinion, feedback and request for more features.
+
+I also may make a video tutorial in the future, explaining every detail.
+
 ## Official Third Person Platformer Demo:
 
 https://godotengine.org/asset-library/asset/125
